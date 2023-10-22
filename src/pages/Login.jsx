@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {Container,Form,Button} from "react-bootstrap";
-import "../styles/login.css"
+import "../styles/Login.css"
 import {Link,useNavigate} from "react-router-dom";
 
 
